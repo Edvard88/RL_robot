@@ -158,4 +158,7 @@ venv/
 
 # 3) Файлы типов
 *.txt
+# Но включить обратно requirements.txt
+!requirements.txt
+
 *.zip
